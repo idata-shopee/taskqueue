@@ -1,4 +1,4 @@
-package io.github.shopee.idata.taskqueue
+package io.github.free.lock.taskqueue
 
 import org.jboss.netty.util.{ HashedWheelTimer, Timeout, TimerTask }
 import java.util.concurrent.TimeUnit

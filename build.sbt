@@ -1,5 +1,5 @@
 name := "taskqueue"
-organization := "io.github.idata-shopee"
+organization := "io.github.lock-free"
 version := "0.1.0"
 scalaVersion := "2.12.4"
 
@@ -10,7 +10,7 @@ publishTo := sonatypePublishTo.value
 
 libraryDependencies ++= Seq(
   // log lib
-  "io.github.idata-shopee" %% "klog" % "0.1.0",
+  "io.github.lock-free" %% "klog" % "0.1.0",
 
   "io.netty" % "netty" % "3.7.0.Final",
   // test suite

@@ -1,6 +1,6 @@
-package io.github.shopee.idata.taskqueue
+package io.github.free.lock.taskqueue
 
-import io.github.shopee.idata.klog.KLog
+import io.github.free.lock.klog.KLog
 import java.util.UUID.randomUUID
 import java.util.concurrent.TimeoutException
 import scala.collection.mutable.SynchronizedQueue

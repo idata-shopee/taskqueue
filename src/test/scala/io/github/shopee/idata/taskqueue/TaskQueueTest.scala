@@ -1,4 +1,4 @@
-package io.github.shopee.idata.taskqueue
+package io.github.free.lock.taskqueue
 
 import java.util.concurrent.Executors
 import scala.concurrent.{ Await, duration }
